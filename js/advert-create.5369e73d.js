@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["advert-create"],{"53f5":function(e,t,a){"use strict";a.r(t);var r=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"course-create"},[a("create-or-update")],1)},c=[],n=a("2b0e"),s=a("7c25"),o=n["default"].extend({name:"CourseCreate",components:{CreateOrUpdate:s["a"]}}),u=o,d=a("2877"),l=Object(d["a"])(u,r,c,!1,null,"7503536c",null);t["default"]=l.exports}}]);
+//# sourceMappingURL=advert-create.5369e73d.js.map
